@@ -1,7 +1,7 @@
 # Murilo Martins
 **`Desenvolvedor Full-Stack`**
 
-![Gráfico de Contribuições](https://ghchart.rshah.org/219138/boriloo)
+![GitHub Streak](https://streak-stats.demolab.com/?user=boriloo&theme=tokyonight)
 
 ## Sobre Mim
 - Cursando Engenharia de Software na Universidade La Salle (Fev/2025 - Dez/2028).
