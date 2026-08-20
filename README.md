@@ -17,7 +17,7 @@
 ## Projetos em Destaque
 
 <table width="100%">
-  <tr>
+  <tr width="100%">
     <td align="center" width="33%">
       <a href="https://contoru.vercel.app/">
         <!-- Substitua o link da imagem abaixo por uma print real do seu projeto -->
