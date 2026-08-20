@@ -1,13 +1,15 @@
 # Murilo Martins
 **`Desenvolvedor Full-Stack`**
 
+![Gráfico de Contribuições](https://ghchart.rshah.org/219138/boriloo)
+
 ## Sobre Mim
 - Cursando Engenharia de Software na Universidade La Salle (Fev/2025 - Dez/2028).
 - Experiência com desenvolvimento de aplicações, correção de bugs e automação de processos.
 - Foco na construção de plataformas web, integrações via APIs REST (n8n) e administração de bancos de dados.
 
 ## Tecnologias
-<!-- Ícones gerados via skill-icons.dev -->
+
 [![My Skills](https://skillicons.dev/icons?i=html,tailwind,ts,react,nextjs,python,vite,wordpress,nodejs,express,mysql,postgres,supabase,redis,git,docker,figma,discord&theme=light)](https://skillicons.dev)
 
 **Outros conhecimentos:** Prisma, Axios, Cloudflare Workers, Vercel, Render, Firebase, Jira, Elementor, RD Station.
@@ -56,11 +58,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## Estatísticas do GitHub
-![Estatísticas do Murilo](https://github-readme-stats.vercel.app/api?username=boriloo&show_icons=true&theme=tokyonight)
 
 ---
 
