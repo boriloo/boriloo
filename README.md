@@ -1,12 +1,9 @@
 # Murilo Martins
 **`Desenvolvedor Full-Stack`**
 
-## Sobre Mim
 - Cursando Engenharia de Software na Universidade La Salle (Fev/2025 - Dez/2028).
 - Experiência com desenvolvimento de aplicações, correção de bugs e automação de processos.
 - Foco na construção de plataformas web, integrações via APIs REST (n8n) e administração de bancos de dados.
-
-## Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=html,tailwind,ts,react,nextjs,python,vite,wordpress,nodejs,express,mysql,postgres,supabase,redis,git,docker,figma,discord&theme=light)](https://skillicons.dev)
 
@@ -14,7 +11,7 @@
 
 ---
 
-## Projetos em Destaque
+## Projetos
 
 <table width="100%">
   <tr width="100%">
@@ -59,7 +56,7 @@
 
 ---
 
-## Contatos
+## Contato
 
 - [**Portfólio**](https://boriloo.github.io/portfolio)
 - [**E-mail**](mailto:muriloomartins00@gmail.com)
