@@ -1,9 +1,9 @@
 # Murilo Martins
 **`Desenvolvedor Full-Stack`**
 
-- Cursando Engenharia de Software na Universidade La Salle (Fev/2025 - Dez/2028).
-- Experiência com desenvolvimento de aplicações, correção de bugs e automação de processos.
-- Foco na construção de plataformas web, integrações via APIs REST (n8n) e administração de bancos de dados.
+- Cursando Engenharia de Software na Universidade La Salle.
+- Experiência com desenvolvimento de aplicações, manutenção e automação de processos.
+- Construção de plataformas web, integrações via APIs REST (n8n) e administração de bancos de dados.
 
 <div align="center">
   <a href="https://skillicons.dev">
