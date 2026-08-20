@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,prisma,postgres,mysql,supabase,redis,python,docker,git&theme=dark&perline=14" height="85" />
+    <img src="https://skillicons.dev/icons?i=ts,react,python,js,nodejs,nextjs,tailwind,express,prisma,postgres,mysql,supabase,redis,docker,git&theme=dark&perline=14" height="90" />
   </a>
 </div>
 
