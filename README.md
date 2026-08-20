@@ -6,7 +6,7 @@
 - Foco na construção de plataformas web, integrações via APIs REST (n8n) e administração de bancos de dados.
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,tailwind,ts,react,nextjs,python,vite,wordpress,nodejs,express,mysql,postgres,supabase,redis,git,docker,figma,discord&theme=light" height="60" />
+  <img src="https://skillicons.dev/icons?i=html,tailwind,ts,react,nextjs,python,vite,wordpress,nodejs,express,mysql,postgres,supabase,redis,git,docker,figma,discord&theme=light" height="80" />
 </a>
 
 **Outros conhecimentos:** Prisma, Axios, Cloudflare Workers, Vercel, Render, Firebase, Jira, Elementor, RD Station.
