@@ -7,11 +7,13 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,tailwind,ts,react,nextjs,python,vite,wordpress,nodejs,express,mysql,postgres,supabase,redis,git,docker,figma,discord&theme=dark" height="90" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,prisma,postgres,mysql,supabase,redis,python,docker,git&theme=dark&perline=14" height="85" />
   </a>
 </div>
 
-**Outros conhecimentos:** Prisma, Axios, Cloudflare Workers, Vercel, Render, Firebase, Jira, Elementor, RD Station.
+<br/>
+
+**Outros conhecimentos:** HTML, Vite, WordPress, Axios, Cloudflare Workers, Vercel, Render, Firebase, Figma, Jira, Elementor, RD Station, Discord, n8n.
 
 ---
 
