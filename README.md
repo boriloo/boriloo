@@ -5,7 +5,9 @@
 - Experiência com desenvolvimento de aplicações, correção de bugs e automação de processos.
 - Foco na construção de plataformas web, integrações via APIs REST (n8n) e administração de bancos de dados.
 
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,ts,react,nextjs,python,vite,wordpress,nodejs,express,mysql,postgres,supabase,redis,git,docker,figma,discord&theme=light)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,tailwind,ts,react,nextjs,python,vite,wordpress,nodejs,express,mysql,postgres,supabase,redis,git,docker,figma,discord&theme=light" height="40" />
+</a>
 
 **Outros conhecimentos:** Prisma, Axios, Cloudflare Workers, Vercel, Render, Firebase, Jira, Elementor, RD Station.
 
